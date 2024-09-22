@@ -6,7 +6,6 @@
 		{
 			"type": "npm",
 			"script": "watch",
-			"problemMatcher": "",
 			"isBackground": true,
 			"presentation": {
 				"reveal": "never",
